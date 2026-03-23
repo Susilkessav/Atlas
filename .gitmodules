@@ -1,0 +1,3 @@
+[submodule "atlaspulse"]
+	path = atlaspulse
+	url = https://github.com/Susilkessav/atlaspulse.git
